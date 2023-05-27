@@ -1,0 +1,6 @@
+https://github.com/toriato/stable-diffusion-webui-wd14-tagger
+https://jihulab.com/vanwise/batchlinks-webui
+https://github.com/camenduru/sd-webui-tunnels
+https://github.com/kohya-ss/sd-webui-additional-networks
+https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris
+https://github.com/camenduru/sd-webui-aspect-ratio-helper

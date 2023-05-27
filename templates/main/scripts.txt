@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/camenduru/stable-diffusion-webui-scripts/main/run_n_times.py
+https://github.com/ototadana/sd-face-editor
